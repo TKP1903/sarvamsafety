@@ -127,7 +127,7 @@ function Aboutpage() {
           </div>
           <hr className="text-gray-400 text-4xl w-full" />
         </div>
-        <div className="bg-gray-50 px-6 py-5 shadow-xl border-gray-50">
+        <div className="bg-gray-50 px-6 py-5 shadow-xl border-gray-50 mb-20">
           <h4 className="text-xl font-bold pb-4">Happy customer says</h4>
           <p className="text-lg font-semibold text-gray-400 pl-4">
             Got some hair nets from here.they're quality and order was processed
